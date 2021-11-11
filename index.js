@@ -6,7 +6,6 @@ const admin = require("firebase-admin");
 require('dotenv').config()
 const { MongoClient } = require('mongodb');
 
-// doctors-portal-firebase-adminsdk.json
 
 
 const serviceAccount = require("./doctors-portal-firebase-adminsdk.json");
